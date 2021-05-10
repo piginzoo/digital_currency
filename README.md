@@ -12,7 +12,7 @@
 ## 实现机制
 
 我使用了一个[Github数字币获取项目 - cryptoCMD](https://github.com/guptarohit/cryptoCMD)，
-来获取数字币的交易信息，然后保存到data目录中，csv格式。
+来获取[coinmarketcap.com](https://coinmarketcap.com/)上的数字币的交易信息，然后保存到data目录中，csv格式。
 
 然后通过程序分析其收益率。
 
