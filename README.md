@@ -3,7 +3,7 @@
 1. 下载安装[python 3.8](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
 ，如果需要安装virtualenv，可以[参考](https://www.liaoxuefeng.com/wiki/1016959663602400/1019273143120480).
 
-2. 安装依赖包：pip install requirements.txt
+2. 安装依赖包：pip install -r requirements.txt
 
 
 # 如何爬取、显示、看收益

@@ -34,4 +34,4 @@ if __name__ == '__main__':
     parser.add_argument('--code', '-c', type=str, default=None)
     args = parser.parse_args()
     utils.init_logger()
-    main(args)
+    main(args.code)
